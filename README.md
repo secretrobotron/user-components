@@ -1,7 +1,5 @@
-user-components
-===============
-
 Appmaker components created by community members
 
-* [https://github.com/secretrobotron/component-conditional](Conditional Broadcast) secretrobotron/component-conditional
-* [https://github.com/secretrobotron/component-canvas](Canvas) secretrobotron/component-canvas
+* [Conditional Broadcaster](https://github.com/secretrobotron/component-conditional) secretrobotron/component-conditional
+* [Finger Painting Canvas](https://github.com/secretrobotron/component-canvas) secretrobotron/component-canvas
+* [QR Code Generator](https://github.com/dcardosods/component-qr-code) dcardosods/component-qr-code
